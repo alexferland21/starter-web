@@ -5,6 +5,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Deployement
+Ajout de texte pour tester p4merge
 
 ## Purpose
 
